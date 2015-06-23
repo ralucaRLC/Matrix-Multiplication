@@ -30,6 +30,7 @@ for(i=0;i<n;i++)
 		rez[i][j]=s;
 	}
 	
+printf("Am modificat:\n");
 printf("Rezultatul este:\n");
 for(i=0;i<n;i++)
 {
